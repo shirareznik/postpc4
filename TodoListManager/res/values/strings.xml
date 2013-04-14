@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoListManagerActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="parseApplication">nz8EmZFBUtIVFrZBAHD7SJnLY90G0ign3HDBErDz</string>
+    <string name="clientKey">QCDpgGSGH4vSCeI9GtU1ZaZIQkrcbpd3mOZxRYP2</string>
+
+</resources>
